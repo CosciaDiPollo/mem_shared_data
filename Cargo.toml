@@ -1,0 +1,13 @@
+[package]
+name = "shared_mem_data"
+version = "0.1.0"
+authors = ["CosciaDiPollo"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures="0.3.0"
+async-std="1.0.1"
+
+
